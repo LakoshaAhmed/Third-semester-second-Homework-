@@ -1,0 +1,5 @@
+12.11 13:25:28 operation: withdraw; status: SUCCESS; arguments: owner=Nick, amount=15
+12.11 13:25:28 operation: withdraw; status: FAIL; Exception: Exception
+12.11 13:37:11 operation: withdraw; status: FAIL; Exception: Exception
+12.11 13:37:47 operation: withdraw; status: FAIL; Exception: Exception
+12.11 14:13:41 operation: withdraw; status: FAIL; Exception: Exception
